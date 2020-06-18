@@ -1,0 +1,102 @@
+{
+ "paintings": [
+  {
+   "id": 1,
+   "titulo": "Calle Casco Antiguo",
+   "medidas": "80cm x 60cm",
+   "tecnica": "Oleo sobre lienzo",
+   "descripcion":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias, impedit blanditiis? Quaerat dolorum unde amet, rerum exercitationem et. Sit aperiam quam, ipsum officia ea sint. Distinctio impedit unde facilis ullam?",
+   "precio": "$120"
+  },
+  {
+    "id": 2,
+    "titulo": "Plaza Casco Antiguo",
+    "medidas": "80cm x 60cm",
+    "tecnica": "Oleo sobre lienzo",
+    "descripcion":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias, impedit blanditiis? Quaerat dolorum unde amet, rerum exercitationem et. Sit aperiam quam, ipsum officia ea sint. Distinctio impedit unde facilis ullam?",
+    "precio": "$100"
+   },
+   {
+    "id": 3,
+    "titulo": "Metempsycosis",
+    "medidas": "100cm x 80cm",
+    "tecnica": "Oleo sobre lienzo",
+    "descripcion":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias, impedit blanditiis? Quaerat dolorum unde amet, rerum exercitationem et. Sit aperiam quam, ipsum officia ea sint. Distinctio impedit unde facilis ullam?",
+    "precio": "$110"
+   },
+   {
+    "id": 4,
+    "titulo": "Melacolia",
+    "medidas": "40cm x 30cm",
+    "tecnica": "Oleo sobre lienzo",
+    "descripcion":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias, impedit blanditiis? Quaerat dolorum unde amet, rerum exercitationem et. Sit aperiam quam, ipsum officia ea sint. Distinctio impedit unde facilis ullam?",
+    "precio": "$50"
+   },
+   {
+    "id": 5,
+    "titulo": "Plaza Francia - Panama",
+    "medidas": "60 x 50cm",
+    "tecnica": "Oleo sobre lienzo",
+    "descripcion":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias, impedit blanditiis? Quaerat dolorum unde amet, rerum exercitationem et. Sit aperiam quam, ipsum officia ea sint. Distinctio impedit unde facilis ullam?",
+    "precio": "$70"
+   },
+   {
+    "id": 6,
+    "titulo": "Calle 7 Angelitos - Cusco",
+    "medidas": "100cm x 80cm",
+    "tecnica": "Oleo sobre lienzo",
+    "descripcion":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias, impedit blanditiis? Quaerat dolorum unde amet, rerum exercitationem et. Sit aperiam quam, ipsum officia ea sint. Distinctio impedit unde facilis ullam?",
+    "precio": "$120"
+   },
+   {
+    "id": 7,
+    "titulo": "Jardin",
+    "medidas": "40cm x 300cm",
+    "tecnica": "Oleo sobre lienzo",
+    "descripcion":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias, impedit blanditiis? Quaerat dolorum unde amet, rerum exercitationem et. Sit aperiam quam, ipsum officia ea sint. Distinctio impedit unde facilis ullam?",
+    "precio": "$40"
+   },
+   {
+    "id": 8,
+    "titulo": "Dibujo - Lobo",
+    "medidas": "25cm x 15cm",
+    "tecnica": "Grafito / Carboncillo",
+    "descripcion":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias, impedit blanditiis? Quaerat dolorum unde amet, rerum exercitationem et. Sit aperiam quam, ipsum officia ea sint. Distinctio impedit unde facilis ullam?",
+    "precio": "$10"
+   },
+   {
+    "id": 9,
+    "titulo": "Dibujo - Gato",
+    "medidas": "25cm x 15cm",
+    "tecnica": "Oleo sobre lienzo",
+    "descripcion":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias, impedit blanditiis? Quaerat dolorum unde amet, rerum exercitationem et. Sit aperiam quam, ipsum officia ea sint. Distinctio impedit unde facilis ullam?",
+    "precio": "$10"
+   },
+   {
+    "id": 10,
+    "titulo": "Dibujo - Gato",
+    "medidas": "25cm x 15cm",
+    "tecnica": "Oleo sobre lienzo",
+    "descripcion":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias, impedit blanditiis? Quaerat dolorum unde amet, rerum exercitationem et. Sit aperiam quam, ipsum officia ea sint. Distinctio impedit unde facilis ullam?",
+    "precio": "$10"
+   },
+   {
+    "id": 11,
+    "titulo": "Dibujo - Gato",
+    "medidas": "25cm x 15cm",
+    "tecnica": "Oleo sobre lienzo",
+    "descripcion":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias, impedit blanditiis? Quaerat dolorum unde amet, rerum exercitationem et. Sit aperiam quam, ipsum officia ea sint. Distinctio impedit unde facilis ullam?",
+    "precio": "$10"
+   },
+   {
+    "id": 12,
+    "titulo": "Dibujo - Gato",
+    "medidas": "25cm x 15cm",
+    "tecnica": "Oleo sobre lienzo",
+    "descripcion":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias, impedit blanditiis? Quaerat dolorum unde amet, rerum exercitationem et. Sit aperiam quam, ipsum officia ea sint. Distinctio impedit unde facilis ullam?",
+    "precio": "$10"
+   },
+   
+ 
+]
+}
