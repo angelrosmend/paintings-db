@@ -2,7 +2,7 @@
  "paintings": [
   {
    "id": 1,
-   "image": "",
+   "image": "https://photos.google.com/photo/AF1QipOZl-Vp6NWj4bLNpNhqq4fuhaXkK2dOzu46xtap",
    "titulo": "Calle Casco Antiguo",
    "medidas": "80cm x 60cm",
    "tecnica": "Oleo sobre lienzo",
@@ -47,8 +47,8 @@
    },
    {
     "id": 6,
-    "image": "",
-    "titulo": "Calle 7 Angelitos - Cusco",
+    "image": "https://photos.google.com/search/_tra_/photo/AF1QipM_dZT5YVIgc5ZEyENqC-Hykjs0K4If62vkXP66",
+    "titulo": "Caminito - Buenos Aires",
     "medidas": "100cm x 80cm",
     "tecnica": "Oleo sobre lienzo",
     "descripcion":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias, impedit blanditiis? Quaerat dolorum unde amet, rerum exercitationem et. Sit aperiam quam, ipsum officia ea sint. Distinctio impedit unde facilis ullam?",
