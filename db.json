@@ -2,7 +2,7 @@
  "paintings": [
   {
    "id": 1,
-   "image": "",
+   "image": "https://i.imgur.com/TgOb0ET.jpg",
    "titulo": "Calle Siete Angelitos - Cusco",
    "medidas": "80cm x 60cm",
    "tecnica": "Oleo sobre lienzo",
@@ -29,8 +29,8 @@
    },
    {
     "id": 4,
-    "image": "https://i.imgur.com/kJuy0Ob.jpg",
-    "titulo": "Melacolia",
+    "image": "https://i.imgur.com/bqnlVet.jpg",
+    "titulo": "Plaza Francia - Panama",
     "medidas": "40cm x 30cm",
     "tecnica": "Oleo sobre lienzo",
     "descripcion":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias, impedit blanditiis? Quaerat dolorum unde amet, rerum exercitationem et. Sit aperiam quam, ipsum officia ea sint. Distinctio impedit unde facilis ullam?",
@@ -52,7 +52,7 @@
     "medidas": "50cm x 60cm",
     "tecnica": "Oleo sobre lienzo",
     "descripcion":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias, impedit blanditiis? Quaerat dolorum unde amet, rerum exercitationem et. Sit aperiam quam, ipsum officia ea sint. Distinctio impedit unde facilis ullam?",
-    "precio": "$120"
+    "precio": "$80"
    },
    {
     "id": 7,
@@ -61,25 +61,25 @@
     "medidas": "40cm x 300cm",
     "tecnica": "Oleo sobre lienzo",
     "descripcion":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias, impedit blanditiis? Quaerat dolorum unde amet, rerum exercitationem et. Sit aperiam quam, ipsum officia ea sint. Distinctio impedit unde facilis ullam?",
-    "precio": "$40"
+    "precio": "$115"
    },
    {
     "id": 8,
-    "image": "",
-    "titulo": "Dibujo - Lobo",
-    "medidas": "25cm x 15cm",
+    "image": "https://imgur.com/gallery/oFzaUVo",
+    "titulo": "Cobain",
+    "medidas": "100cm x 80cm",
     "tecnica": "Grafito / Carboncillo",
     "descripcion":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias, impedit blanditiis? Quaerat dolorum unde amet, rerum exercitationem et. Sit aperiam quam, ipsum officia ea sint. Distinctio impedit unde facilis ullam?",
-    "precio": "$10"
+    "precio": "$100"
    },
    {
     "id": 9,
-    "image": "",
-    "titulo": "Dibujo - Gato",
-    "medidas": "25cm x 15cm",
+    "image": "https://i.imgur.com/LxxT50j.jpg",
+    "titulo": "Ascencion",
+    "medidas": "100cm x 120cm",
     "tecnica": "Oleo sobre lienzo",
     "descripcion":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias, impedit blanditiis? Quaerat dolorum unde amet, rerum exercitationem et. Sit aperiam quam, ipsum officia ea sint. Distinctio impedit unde facilis ullam?",
-    "precio": "$10"
+    "precio": "$90"
    }
 ]
 }
