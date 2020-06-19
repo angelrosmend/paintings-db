@@ -2,8 +2,8 @@
  "paintings": [
   {
    "id": 1,
-   "image": "https://photos.google.com/photo/AF1QipOZl-Vp6NWj4bLNpNhqq4fuhaXkK2dOzu46xtap.jpg",
-   "titulo": "Calle Casco Antiguo",
+   "image": "",
+   "titulo": "Calle Siete Angelitos - Cusco",
    "medidas": "80cm x 60cm",
    "tecnica": "Oleo sobre lienzo",
    "descripcion":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias, impedit blanditiis? Quaerat dolorum unde amet, rerum exercitationem et. Sit aperiam quam, ipsum officia ea sint. Distinctio impedit unde facilis ullam?",
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "image": "https://vignette.wikia.nocookie.net/westworld/images/5/59/Westworld-episodio-5_Dolores_infobox.jpg/revision/latest/top-crop/width/360/height/360?cb=20161130231551&path-prefix=es",
+    "image": "https://i.imgur.com/0W7WwKY.jpg",
     "titulo": "Plaza Casco Antiguo",
     "medidas": "80cm x 60cm",
     "tecnica": "Oleo sobre lienzo",
@@ -20,8 +20,8 @@
    },
    {
     "id": 3,
-    "image": "",
-    "titulo": "Metempsycosis",
+    "image": "https://i.imgur.com/lyMnUht.jpg",
+    "titulo": "Casco Antigo - Panama",
     "medidas": "100cm x 80cm",
     "tecnica": "Oleo sobre lienzo",
     "descripcion":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias, impedit blanditiis? Quaerat dolorum unde amet, rerum exercitationem et. Sit aperiam quam, ipsum officia ea sint. Distinctio impedit unde facilis ullam?",
@@ -47,17 +47,17 @@
    },
    {
     "id": 6,
-    "image": "https://photos.google.com/search/_tra_/photo/AF1QipM_dZT5YVIgc5ZEyENqC-Hykjs0K4If62vkXP66",
+    "image": "https://i.imgur.com/R7SsveF.jpg",
     "titulo": "Caminito - Buenos Aires",
-    "medidas": "100cm x 80cm",
+    "medidas": "50cm x 60cm",
     "tecnica": "Oleo sobre lienzo",
     "descripcion":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias, impedit blanditiis? Quaerat dolorum unde amet, rerum exercitationem et. Sit aperiam quam, ipsum officia ea sint. Distinctio impedit unde facilis ullam?",
     "precio": "$120"
    },
    {
     "id": 7,
-    "image": "",
-    "titulo": "Jardin",
+    "image": "https://i.imgur.com/oryxzDn.jpg",
+    "titulo": "Metemsicosis",
     "medidas": "40cm x 300cm",
     "tecnica": "Oleo sobre lienzo",
     "descripcion":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias, impedit blanditiis? Quaerat dolorum unde amet, rerum exercitationem et. Sit aperiam quam, ipsum officia ea sint. Distinctio impedit unde facilis ullam?",
